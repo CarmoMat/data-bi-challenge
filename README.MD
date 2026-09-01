@@ -1,4 +1,4 @@
-# Indicium AI — Desafio Técnico de Data/BI
+# Desafio Técnico de Data/BI
 
 ## Contexto
 
